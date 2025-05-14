@@ -57,7 +57,7 @@
 
 |项目名称 | 维护状态 |
 |:----|:----|
-|[ClashNEXT](https://github.com/xiaobaigroup/hapapp)|维护中 |
+|[ClashNEXT](https://github.com/xiaobaigroup/ClashNEXT)|维护中 |
 
 ## Merlin (KoolCenter 固件/paldier SWRT 固件)
 
