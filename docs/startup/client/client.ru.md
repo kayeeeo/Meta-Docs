@@ -57,7 +57,7 @@
 
 |Название проекта | Статус поддержки |
 |:----|:----|
-|[ClashNEXT](https://github.com/xiaobaigroup/hapapp)|В разработке |
+|[ClashNEXT](https://github.com/xiaobaigroup/ClashNEXT)|В разработке |
 
 ## Merlin (прошивка KoolCenter/прошивка paldier SWRT)
 
